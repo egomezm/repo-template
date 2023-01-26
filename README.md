@@ -1,25 +1,10 @@
 
 # Project Title
+[![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
+[![Repo Size](https://img.shields.io/github/repo-size/egomezm/repo-template)](https://github.com/egomezm/repo-template)
+[*](https://shields.io/)
 
 A brief description of what this project does and who it's for
-
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
-[![Repo Size](https://img.shields.io/github/languages/code-size/egomezm/repo-template)](https://github.com/egomezm/repo-template)
-[![Test](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
-[![Test](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
-
-
-
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
 
 
 ## Features
@@ -32,7 +17,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+Info goes here...
 
 
 ## Run Locally
@@ -91,6 +76,4 @@ function App() {
 ```
 
 
-## 🚀 About Me
-I'm a full stack developer...
 
