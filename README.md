@@ -8,7 +8,11 @@ A brief description of what this project does and who it's for
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
 
+[![Files](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
+[![Repo Size](https://img.shields.io/github/languages/code-size/egomezm/repo-template)](https://github.com/egomezm/repo-template)
 [![Test](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
+[![Test](https://img.shields.io/github/directory-file-count/egomezm/repo-template)](https://github.com/egomezm/repo-template)
+
 
 
 
